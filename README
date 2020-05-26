@@ -1,0 +1,2 @@
+node gitgraph.js GIT_URL
+deno run --unstable --allow-read --allow-run gitgraph-deno.ts GIT_URL
